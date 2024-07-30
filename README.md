@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8de28027-4dd5-45b7-97e5-a083ea605842" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/bca62fc7-3920-46bb-94e4-be0ccc546f03" width="200" height="200"/>
+
+          
+</div>
+
+
 ## Práctica 2 (Red Neuronal Convolucional)
 
 El objetivo principal de este modelo de red neuronal es indicar si en la imagen pasada como parámetro se encuentra fuego o no. Los mejores accuracy en cuanto al entrenamiento y la validación son 0,9994 y 0,98447 respectivamente.
